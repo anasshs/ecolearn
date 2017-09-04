@@ -1,0 +1,46 @@
+<head>
+  <!-- Plotly.js -->
+  <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+</head>
+
+<body>
+
+<H2> e-CoEmotion Results </H2>
+
+
+  <!-- To do get data from emotion result text file to Y values-->
+  
+  
+  
+  <div id="myDiv"></div>
+  <script>
+  var angry = {
+  x: [0.2, 0.4, 0.6, 0.8,1],
+  y: [0.60100695401158054,0.59749453922916772, 0.10100695401158054, 0.0100695401158054], 
+  type: 'scatter'
+};
+var happy = {
+  x: [0.2, 0.4, 0.6, 0.8,1],
+  y: [1.628485703597399, 0.479415641940176, 1.6479415641940176, 0.979415641940176], 
+  type: 'scatter'
+};
+var sad = {
+  x: [0.2, 0.4, 0.6, 0.8,1],
+  y: [0.006769627966346179, 0.006478600026159382, 0.006769627966346179, 0.006769627966346179], 
+  type: 'scatter'
+};
+var surprised = {
+  x: [0.2, 0.4, 0.6, 0.8,1],
+  y: [1.6735769389029245, 1.7101155476027885, 1.1735769389029245, 1.0735769389029245], 
+  type: 'scatter'
+};
+var data = [angry, happy, sad, surprised];
+Plotly.newPlot('myDiv', data);
+  
+  
+  </script>
+  trace 0= Angry<br>
+   trace 1= Happy<br>
+    trace 2= Sad<br>
+     trace 3= Surprised<br>
+</body>

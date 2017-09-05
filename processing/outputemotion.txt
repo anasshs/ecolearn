@@ -1,0 +1,7385 @@
+---- Session started: Mon Sep 04 2017 19:28:42 GMT+0100 (WEST) ----
+
+[
+	{
+		emotion: "angry",
+		value: 1.08495773461377512
+	}, 
+	{
+		emotion: "sad",
+		value:0.05993173506165729
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.054032595527500206
+	}, 
+	{
+		emotion: "happy",
+		value: 0.18562819815754616
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.08495773461377512
+	}, 
+	{
+		emotion: "sad",
+		value: 0.05993173506165729
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.054032595527500206
+	}, 
+	{
+		emotion: "happy",
+		value: 0.18562819815754616
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.08495773461377512
+	}, 
+	{
+		emotion: "sad",
+		value: 0.05993173506165729
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.054032595527500206
+	}, 
+	{
+		emotion: "happy",
+		value: 0.18562819815754616
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.08495773461377512
+	}, 
+	{
+		emotion: "sad",
+		value: 0.05993173506165729
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.054032595527500206
+	}, 
+	{
+		emotion: "happy",
+		value: 0.18562819815754616
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.08438832598457649
+	}, 
+	{
+		emotion: "sad",
+		value: 0.056894117521145565
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.04834322657129485
+	}, 
+	{
+		emotion: "happy",
+		value: 0.1983991450993147
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.08377316897149989
+	}, 
+	{
+		emotion: "sad",
+		value: 0.05225101367667946
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.04043503526437601
+	}, 
+	{
+		emotion: "happy",
+		value: 0.21716540219093214
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.08845405794787019
+	}, 
+	{
+		emotion: "sad",
+		value: 0.045627000657870564
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.031957362620895866
+	}, 
+	{
+		emotion: "happy",
+		value: 0.2275504060221523
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.10402992047031916
+	}, 
+	{
+		emotion: "sad",
+		value: 0.03955496019220753
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.024325223164305392
+	}, 
+	{
+		emotion: "happy",
+		value: 0.20826531607412183
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.1314910081119821
+	}, 
+	{
+		emotion: "sad",
+		value: 0.033724625611868175
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.018526722688140748
+	}, 
+	{
+		emotion: "happy",
+		value: 0.16603042038592492
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.1748467142631562
+	}, 
+	{
+		emotion: "sad",
+		value: 0.02766947848128197
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.014343509417201831
+	}, 
+	{
+		emotion: "happy",
+		value: 0.11797167235861077
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.235363612671202
+	}, 
+	{
+		emotion: "sad",
+		value: 0.024349559673997
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.010947756323798411
+	}, 
+	{
+		emotion: "happy",
+		value: 0.07435566446993921
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.3071061804340148
+	}, 
+	{
+		emotion: "sad",
+		value: 0.02171257586031217
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.008184863738345373
+	}, 
+	{
+		emotion: "happy",
+		value: 0.045914798058078854
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.3906264733323403
+	}, 
+	{
+		emotion: "sad",
+		value: 0.01954249366044411
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.005904735659645371
+	}, 
+	{
+		emotion: "happy",
+		value: 0.027856390895949264
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.47413435560204714
+	}, 
+	{
+		emotion: "sad",
+		value: 0.01748187064019305
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.004331210278907085
+	}, 
+	{
+		emotion: "happy",
+		value: 0.017165811264199287
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.5533618971003544
+	}, 
+	{
+		emotion: "sad",
+		value: 0.017064519250568518
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.003497857965659327
+	}, 
+	{
+		emotion: "happy",
+		value: 0.009840069013795538
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.6204306207120555
+	}, 
+	{
+		emotion: "sad",
+		value: 0.017189075825192315
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.0031486725300739135
+	}, 
+	{
+		emotion: "happy",
+		value: 0.005646716077629755
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.6633965812072122
+	}, 
+	{
+		emotion: "sad",
+		value: 0.018576957521441083
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.0030333082403307884
+	}, 
+	{
+		emotion: "happy",
+		value: 0.003477435772930501
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.6710004968200199
+	}, 
+	{
+		emotion: "sad",
+		value: 0.02082715911087877
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.0029898344453219185
+	}, 
+	{
+		emotion: "happy",
+		value: 0.0026217683367058078
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.6502553148161925
+	}, 
+	{
+		emotion: "sad",
+		value: 0.024453111334919186
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.002953334134281578
+	}, 
+	{
+		emotion: "happy",
+		value: 0.0023863903610275056
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.6047274267455404
+	}, 
+	{
+		emotion: "sad",
+		value: 0.029432450787122904
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.0029550037316261285
+	}, 
+	{
+		emotion: "happy",
+		value: 0.0025318804796108894
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.5436539696392173
+	}, 
+	{
+		emotion: "sad",
+		value: 0.03381813301894869
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.0030422635189504828
+	}, 
+	{
+		emotion: "happy",
+		value: 0.002995265059698948
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.4857251128378279
+	}, 
+	{
+		emotion: "sad",
+		value: 0.03912053687562593
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.0031774629494109715
+	}, 
+	{
+		emotion: "happy",
+		value: 0.003465683568477756
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.4295756770794129
+	}, 
+	{
+		emotion: "sad",
+		value: 0.046048550585142525
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.003469135883129782
+	}, 
+	{
+		emotion: "happy",
+		value: 0.0038878581324467702
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.38581445669714276
+	}, 
+	{
+		emotion: "sad",
+		value: 0.05600597272074258
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.003780196851104637
+	}, 
+	{
+		emotion: "happy",
+		value: 0.004036648103782448
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.35335574463712355
+	}, 
+	{
+		emotion: "sad",
+		value: 0.06670143358640065
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.004179074976625714
+	}, 
+	{
+		emotion: "happy",
+		value: 0.004025104533472967
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.3315960491622557
+	}, 
+	{
+		emotion: "sad",
+		value: 0.0782065498611019
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.004423897218939553
+	}, 
+	{
+		emotion: "happy",
+		value: 0.0038933601318171555
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.3140990567175992
+	}, 
+	{
+		emotion: "sad",
+		value: 0.08746256324978176
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.004673245005261937
+	}, 
+	{
+		emotion: "happy",
+		value: 0.0037787127348181244
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.30410570728200703
+	}, 
+	{
+		emotion: "sad",
+		value: 0.0967251205661846
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.004958917979504914
+	}, 
+	{
+		emotion: "happy",
+		value: 0.0035403792852431283
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.30173490310987405
+	}, 
+	{
+		emotion: "sad",
+		value: 0.10483853459999255
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.005283863279353191
+	}, 
+	{
+		emotion: "happy",
+		value: 0.00326226284951815
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.30418332550368443
+	}, 
+	{
+		emotion: "sad",
+		value: 0.11326480114446405
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.005409708054764152
+	}, 
+	{
+		emotion: "happy",
+		value: 0.0030231232787316705
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.3132224808176613
+	}, 
+	{
+		emotion: "sad",
+		value: 0.11776231629995806
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.005406435839584907
+	}, 
+	{
+		emotion: "happy",
+		value: 0.002846393135678198
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.3228099881059368
+	}, 
+	{
+		emotion: "sad",
+		value: 0.11688119199051353
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.0054826638547657465
+	}, 
+	{
+		emotion: "happy",
+		value: 0.0027795175801256415
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.3329407198993309
+	}, 
+	{
+		emotion: "sad",
+		value: 0.11013595043447517
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.005430923106030903
+	}, 
+	{
+		emotion: "happy",
+		value: 0.0028519336431552574
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.33865601488341773
+	}, 
+	{
+		emotion: "sad",
+		value: 0.1009940084004356
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.005347331278023307
+	}, 
+	{
+		emotion: "happy",
+		value: 0.0030797149417728293
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.3396468389922308
+	}, 
+	{
+		emotion: "sad",
+		value: 0.09199928813152565
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.005270276266065321
+	}, 
+	{
+		emotion: "happy",
+		value: 0.00344741883277151
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.3382872662492181
+	}, 
+	{
+		emotion: "sad",
+		value: 0.08609048922104406
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.0051482835137846945
+	}, 
+	{
+		emotion: "happy",
+		value: 0.0038870175179087536
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.33644405914905456
+	}, 
+	{
+		emotion: "sad",
+		value: 0.08277355716356734
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.004885011636580456
+	}, 
+	{
+		emotion: "happy",
+		value: 0.004402699438609934
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.3328548719583735
+	}, 
+	{
+		emotion: "sad",
+		value: 0.07664605393582649
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.004673769379250261
+	}, 
+	{
+		emotion: "happy",
+		value: 0.005157834042875324
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.3301842283896777
+	}, 
+	{
+		emotion: "sad",
+		value: 0.06932360034091302
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.004479647418183391
+	}, 
+	{
+		emotion: "happy",
+		value: 0.006086115870504023
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.32955418559041266
+	}, 
+	{
+		emotion: "sad",
+		value: 0.0628569261425877
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.004365260233029072
+	}, 
+	{
+		emotion: "happy",
+		value: 0.00693756568833512
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.32920840482078956
+	}, 
+	{
+		emotion: "sad",
+		value: 0.05736561129375249
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.004294513318231925
+	}, 
+	{
+		emotion: "happy",
+		value: 0.0077212838760139105
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.3262526646123748
+	}, 
+	{
+		emotion: "sad",
+		value: 0.05458972432789042
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.004181862445462634
+	}, 
+	{
+		emotion: "happy",
+		value: 0.008446664666785451
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.3239481966786363
+	}, 
+	{
+		emotion: "sad",
+		value: 0.0542675701760754
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.004085759341509689
+	}, 
+	{
+		emotion: "happy",
+		value: 0.00898143444224871
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.3252146770050115
+	}, 
+	{
+		emotion: "sad",
+		value: 0.055840659661355894
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.0039244848387446725
+	}, 
+	{
+		emotion: "happy",
+		value: 0.00925810216998155
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.3316972233739395
+	}, 
+	{
+		emotion: "sad",
+		value: 0.058523598927499754
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.0037691311137280684
+	}, 
+	{
+		emotion: "happy",
+		value: 0.009143351299640556
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.3378983582092011
+	}, 
+	{
+		emotion: "sad",
+		value: 0.06269367102280828
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.0036672763225667464
+	}, 
+	{
+		emotion: "happy",
+		value: 0.008715551765788058
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.3422487149210953
+	}, 
+	{
+		emotion: "sad",
+		value: 0.06763217755876634
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.00361555638305558
+	}, 
+	{
+		emotion: "happy",
+		value: 0.008131747632623818
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.34593664035830474
+	}, 
+	{
+		emotion: "sad",
+		value: 0.072103315887086
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.003561209293913571
+	}, 
+	{
+		emotion: "happy",
+		value: 0.007537056955583765
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.34966298653121275
+	}, 
+	{
+		emotion: "sad",
+		value: 0.07565373900347105
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.0035097952035876867
+	}, 
+	{
+		emotion: "happy",
+		value: 0.0069617394558856485
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.3528472062595863
+	}, 
+	{
+		emotion: "sad",
+		value: 0.07757419537718993
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.003534393169037986
+	}, 
+	{
+		emotion: "happy",
+		value: 0.006470145643503893
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.3515789107117458
+	}, 
+	{
+		emotion: "sad",
+		value: 0.07873673234323597
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.0036018295278819057
+	}, 
+	{
+		emotion: "happy",
+		value: 0.006187238790764054
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.3466028663919987
+	}, 
+	{
+		emotion: "sad",
+		value: 0.07942912172005558
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.003659679838390561
+	}, 
+	{
+		emotion: "happy",
+		value: 0.006059911049787597
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.33523582919509076
+	}, 
+	{
+		emotion: "sad",
+		value: 0.0801063201757925
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.003753299831552018
+	}, 
+	{
+		emotion: "happy",
+		value: 0.0060587836163621235
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.2940557202344316
+	}, 
+	{
+		emotion: "sad",
+		value: 0.0782044541702063
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.0049666881021893415
+	}, 
+	{
+		emotion: "happy",
+		value: 0.00857338749743857
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.2533793652666
+	}, 
+	{
+		emotion: "sad",
+		value: 0.07447695076308088
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.006601677759595925
+	}, 
+	{
+		emotion: "happy",
+		value: 0.01253477228492074
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.21841667218681396
+	}, 
+	{
+		emotion: "sad",
+		value: 0.06855140333911913
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.008770780000906454
+	}, 
+	{
+		emotion: "happy",
+		value: 0.018710453525949165
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.18960315751022305
+	}, 
+	{
+		emotion: "sad",
+		value: 0.06262985223993768
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.011727075598202958
+	}, 
+	{
+		emotion: "happy",
+		value: 0.0277045907766059
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.1652475761505774
+	}, 
+	{
+		emotion: "sad",
+		value: 0.05899833677508945
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.015691195029069953
+	}, 
+	{
+		emotion: "happy",
+		value: 0.03997657640665158
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.14360360772575162
+	}, 
+	{
+		emotion: "sad",
+		value: 0.057254499908186963
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.02073699682943477
+	}, 
+	{
+		emotion: "happy",
+		value: 0.056780737660458665
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.12459535540914204
+	}, 
+	{
+		emotion: "sad",
+		value: 0.057504585468569916
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.026597788982922747
+	}, 
+	{
+		emotion: "happy",
+		value: 0.07919202893074438
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.1083120589859469
+	}, 
+	{
+		emotion: "sad",
+		value: 0.0588687620237719
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.033650246422592914
+	}, 
+	{
+		emotion: "happy",
+		value: 0.1076983422545769
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.09540102414333465
+	}, 
+	{
+		emotion: "sad",
+		value: 0.05985759973958275
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.042661523437913275
+	}, 
+	{
+		emotion: "happy",
+		value: 0.14255343528042116
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.08495773461377512
+	}, 
+	{
+		emotion: "sad",
+		value: 0.05993173506165729
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.054032595527500206
+	}, 
+	{
+		emotion: "happy",
+		value: 0.18562819815754616
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.08495773461377512
+	}, 
+	{
+		emotion: "sad",
+		value: 0.05993173506165729
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.054032595527500206
+	}, 
+	{
+		emotion: "happy",
+		value: 0.18562819815754616
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.08489457446631757
+	}, 
+	{
+		emotion: "sad",
+		value: 0.06130154608789988
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.050691680630949
+	}, 
+	{
+		emotion: "happy",
+		value: 0.1824674350257974
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.08502899259987777
+	}, 
+	{
+		emotion: "sad",
+		value: 0.061249251545281796
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.04826084977046907
+	}, 
+	{
+		emotion: "happy",
+		value: 0.17339514088211536
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.08691267157508724
+	}, 
+	{
+		emotion: "sad",
+		value: 0.058007976346101005
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.04610558806560239
+	}, 
+	{
+		emotion: "happy",
+		value: 0.1567693445734658
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.09218262743886609
+	}, 
+	{
+		emotion: "sad",
+		value: 0.0505078910906026
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.045104785199664564
+	}, 
+	{
+		emotion: "happy",
+		value: 0.1357179300578971
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.10117597290236906
+	}, 
+	{
+		emotion: "sad",
+		value: 0.039128613668407364
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.046487019138534806
+	}, 
+	{
+		emotion: "happy",
+		value: 0.1200147115823973
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.10804417751227592
+	}, 
+	{
+		emotion: "sad",
+		value: 0.027384212976902494
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.04971753053603801
+	}, 
+	{
+		emotion: "happy",
+		value: 0.12170635068406264
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.10301315026143344
+	}, 
+	{
+		emotion: "sad",
+		value: 0.01815859259485773
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.05383457918193924
+	}, 
+	{
+		emotion: "happy",
+		value: 0.15502858018576698
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.08887646805573289
+	}, 
+	{
+		emotion: "sad",
+		value: 0.011770266444499359
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.05794027317962483
+	}, 
+	{
+		emotion: "happy",
+		value: 0.2354831080082921
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.07156342928476662
+	}, 
+	{
+		emotion: "sad",
+		value: 0.0077519352340700495
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.06113263332233322
+	}, 
+	{
+		emotion: "happy",
+		value: 0.3739649121131301
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.05548963371907433
+	}, 
+	{
+		emotion: "sad",
+		value: 0.005169593465704397
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.06565332525175883
+	}, 
+	{
+		emotion: "happy",
+		value: 0.5535314233680909
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.043405322084825705
+	}, 
+	{
+		emotion: "sad",
+		value: 0.003562990874740241
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.07548734839819297
+	}, 
+	{
+		emotion: "happy",
+		value: 0.7205046555738064
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.034603040271641225
+	}, 
+	{
+		emotion: "sad",
+		value: 0.0026490786875334447
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.08519831193828932
+	}, 
+	{
+		emotion: "happy",
+		value: 0.8436072913704451
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.026976871573306572
+	}, 
+	{
+		emotion: "sad",
+		value: 0.0021270292007332025
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.09598403949002446
+	}, 
+	{
+		emotion: "happy",
+		value: 0.9237021923442035
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.020254692065461957
+	}, 
+	{
+		emotion: "sad",
+		value: 0.0019366408107614496
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.10448861123821106
+	}, 
+	{
+		emotion: "happy",
+		value: 0.9658667264304348
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.014622495531299831
+	}, 
+	{
+		emotion: "sad",
+		value: 0.0019945119004023313
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.10911151299007514
+	}, 
+	{
+		emotion: "happy",
+		value: 0.9847485580577392
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.010939206123766945
+	}, 
+	{
+		emotion: "sad",
+		value: 0.0022511629967969975
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.1096988805033095
+	}, 
+	{
+		emotion: "happy",
+		value: 0.9921422057646949
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.00922081062400164
+	}, 
+	{
+		emotion: "sad",
+		value: 0.0027133554955934276
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.1069204091356141
+	}, 
+	{
+		emotion: "happy",
+		value: 0.9947404781503909
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.008736943115391327
+	}, 
+	{
+		emotion: "sad",
+		value: 0.0034200735753627844
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.10329854099889335
+	}, 
+	{
+		emotion: "happy",
+		value: 0.9954310410567271
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.009173406584528379
+	}, 
+	{
+		emotion: "sad",
+		value: 0.004296940663173703
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.1021561706145981
+	}, 
+	{
+		emotion: "happy",
+		value: 0.9951115594494383
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.010373208359093345
+	}, 
+	{
+		emotion: "sad",
+		value: 0.005416964310874479
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.09675453296597705
+	}, 
+	{
+		emotion: "happy",
+		value: 0.9940399101648806
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.011830089827988523
+	}, 
+	{
+		emotion: "sad",
+		value: 0.006478150385448813
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.09143046482595672
+	}, 
+	{
+		emotion: "happy",
+		value: 0.9925845967721816
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.013255979909506424
+	}, 
+	{
+		emotion: "sad",
+		value: 0.007353166273495149
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.08436160457327856
+	}, 
+	{
+		emotion: "happy",
+		value: 0.9910173222745178
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.014650771272228247
+	}, 
+	{
+		emotion: "sad",
+		value: 0.008180460086268253
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.07857675620741564
+	}, 
+	{
+		emotion: "happy",
+		value: 0.989223788313692
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.015925580994461966
+	}, 
+	{
+		emotion: "sad",
+		value: 0.008523199420693104
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.07488154877035995
+	}, 
+	{
+		emotion: "happy",
+		value: 0.9875780754806996
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.016821624254976474
+	}, 
+	{
+		emotion: "sad",
+		value: 0.00878485035528599
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.07166303982991457
+	}, 
+	{
+		emotion: "happy",
+		value: 0.9861611647573754
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.01723791053222209
+	}, 
+	{
+		emotion: "sad",
+		value: 0.00905766924322879
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.07250649061079344
+	}, 
+	{
+		emotion: "happy",
+		value: 0.9847386925714954
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.017429109752818615
+	}, 
+	{
+		emotion: "sad",
+		value: 0.00916598157211835
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.07744646884232521
+	}, 
+	{
+		emotion: "happy",
+		value: 0.9832928936817042
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.016471658901759372
+	}, 
+	{
+		emotion: "sad",
+		value: 0.008904605708451157
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.08685294551613115
+	}, 
+	{
+		emotion: "happy",
+		value: 0.9831177639278592
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.014616684353913723
+	}, 
+	{
+		emotion: "sad",
+		value: 0.008529869300384438
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.1000515042078434
+	}, 
+	{
+		emotion: "happy",
+		value: 0.9843585818037065
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.012044304953241441
+	}, 
+	{
+		emotion: "sad",
+		value: 0.008134463411273487
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.11919228958032026
+	}, 
+	{
+		emotion: "happy",
+		value: 0.9867364526210708
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.009777114840080477
+	}, 
+	{
+		emotion: "sad",
+		value: 0.008076399016461105
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.1432445989391898
+	}, 
+	{
+		emotion: "happy",
+		value: 0.9885694821949222
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.008092599155510773
+	}, 
+	{
+		emotion: "sad",
+		value: 0.008407084364580975
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.17811398840495027
+	}, 
+	{
+		emotion: "happy",
+		value: 0.9892942668368996
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.006884583439371748
+	}, 
+	{
+		emotion: "sad",
+		value: 0.008929642902710503
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.216455032894378
+	}, 
+	{
+		emotion: "happy",
+		value: 0.9894395703459687
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.005886330130710567
+	}, 
+	{
+		emotion: "sad",
+		value: 0.009661574129310216
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.2569849996323513
+	}, 
+	{
+		emotion: "happy",
+		value: 0.9895578433472623
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.005116060036555056
+	}, 
+	{
+		emotion: "sad",
+		value: 0.010538562391521403
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.29917030647100384
+	}, 
+	{
+		emotion: "happy",
+		value: 0.9896917469199566
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.004499767555378539
+	}, 
+	{
+		emotion: "sad",
+		value: 0.011540042816481183
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.3229819487930472
+	}, 
+	{
+		emotion: "happy",
+		value: 0.9902704980132567
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.003934754015255266
+	}, 
+	{
+		emotion: "sad",
+		value: 0.012751481172059523
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.32960289600125864
+	}, 
+	{
+		emotion: "happy",
+		value: 0.9912897407644551
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.0035763446502416647
+	}, 
+	{
+		emotion: "sad",
+		value: 0.014520319904406248
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.32227299081160055
+	}, 
+	{
+		emotion: "happy",
+		value: 0.9920240999698813
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.00337394397437635
+	}, 
+	{
+		emotion: "sad",
+		value: 0.01645671369220492
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.3023161882378263
+	}, 
+	{
+		emotion: "happy",
+		value: 0.992448934870376
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.003380929634235922
+	}, 
+	{
+		emotion: "sad",
+		value: 0.018211198860069586
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.28191593566423445
+	}, 
+	{
+		emotion: "happy",
+		value: 0.9922632640201259
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.0034262731345865126
+	}, 
+	{
+		emotion: "sad",
+		value: 0.01887534200077793
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.259104981953606
+	}, 
+	{
+		emotion: "happy",
+		value: 0.9922451791476032
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.0034593623776253547
+	}, 
+	{
+		emotion: "sad",
+		value: 0.01856113899967983
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.23154707810874328
+	}, 
+	{
+		emotion: "happy",
+		value: 0.9926248193879301
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.003483026368491081
+	}, 
+	{
+		emotion: "sad",
+		value: 0.017429440762963815
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.20578190672334878
+	}, 
+	{
+		emotion: "happy",
+		value: 0.993130544956544
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.0034668047691099077
+	}, 
+	{
+		emotion: "sad",
+		value: 0.016259629599996526
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.1846409913246267
+	}, 
+	{
+		emotion: "happy",
+		value: 0.9934637435101872
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.003528163570853484
+	}, 
+	{
+		emotion: "sad",
+		value: 0.014903551577386669
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.16629853977316258
+	}, 
+	{
+		emotion: "happy",
+		value: 0.9934031981617566
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.003600077704714707
+	}, 
+	{
+		emotion: "sad",
+		value: 0.01345004344469485
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.15540487587514562
+	}, 
+	{
+		emotion: "happy",
+		value: 0.9930378672279097
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.003754458616308656
+	}, 
+	{
+		emotion: "sad",
+		value: 0.011547404950146148
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.15245060741937738
+	}, 
+	{
+		emotion: "happy",
+		value: 0.992457323980354
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.004043204184143339
+	}, 
+	{
+		emotion: "sad",
+		value: 0.010048541236592174
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.1551034035741816
+	}, 
+	{
+		emotion: "happy",
+		value: 0.9910733111991961
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.0042761955065931095
+	}, 
+	{
+		emotion: "sad",
+		value: 0.008538682957121919
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.16155839419799092
+	}, 
+	{
+		emotion: "happy",
+		value: 0.9897982712355867
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.006006553797066065
+	}, 
+	{
+		emotion: "sad",
+		value: 0.00961462301006497
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.1467415454157095
+	}, 
+	{
+		emotion: "happy",
+		value: 0.9801830634833715
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.008283589490673583
+	}, 
+	{
+		emotion: "sad",
+		value: 0.011049054577065748
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.13278275900076245
+	}, 
+	{
+		emotion: "happy",
+		value: 0.9630996802768151
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.011149082518021937
+	}, 
+	{
+		emotion: "sad",
+		value: 0.01277991540835148
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.12145892788772919
+	}, 
+	{
+		emotion: "happy",
+		value: 0.9347542393366479
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.014338468013769416
+	}, 
+	{
+		emotion: "sad",
+		value: 0.014270712735503512
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.10087488414562112
+	}, 
+	{
+		emotion: "happy",
+		value: 0.8993564248915382
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.01909573614621522
+	}, 
+	{
+		emotion: "sad",
+		value: 0.01566475751759863
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.0793202998581403
+	}, 
+	{
+		emotion: "happy",
+		value: 0.8475273409230012
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.026447482851616914
+	}, 
+	{
+		emotion: "sad",
+		value: 0.016986655145995334
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.06022091914101303
+	}, 
+	{
+		emotion: "happy",
+		value: 0.7688604032210068
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.03943191188260906
+	}, 
+	{
+		emotion: "sad",
+		value: 0.01836466463476215
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.04634754714381424
+	}, 
+	{
+		emotion: "happy",
+		value: 0.6372868793347585
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.06265676002669168
+	}, 
+	{
+		emotion: "sad",
+		value: 0.020719529671297292
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.03598688808480126
+	}, 
+	{
+		emotion: "happy",
+		value: 0.4417242046080396
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.10578801954154521
+	}, 
+	{
+		emotion: "sad",
+		value: 0.023129618731579444
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.027970963789989933
+	}, 
+	{
+		emotion: "happy",
+		value: 0.24262176371510918
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.18888410372833528
+	}, 
+	{
+		emotion: "sad",
+		value: 0.027782005189773307
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.0219102547658491
+	}, 
+	{
+		emotion: "happy",
+		value: 0.09539393368553449
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.26177413587134657
+	}, 
+	{
+		emotion: "sad",
+		value: 0.026712902903315183
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.02023614678711322
+	}, 
+	{
+		emotion: "happy",
+		value: 0.052746316013554326
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.3522396857710193
+	}, 
+	{
+		emotion: "sad",
+		value: 0.026625955843338982
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.018635043009408086
+	}, 
+	{
+		emotion: "happy",
+		value: 0.02748335949782409
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.45667552321522575
+	}, 
+	{
+		emotion: "sad",
+		value: 0.027207332406446676
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.017306228329022472
+	}, 
+	{
+		emotion: "happy",
+		value: 0.01369519181681495
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.570641895342952
+	}, 
+	{
+		emotion: "sad",
+		value: 0.02913740431074365
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.018233508012596832
+	}, 
+	{
+		emotion: "happy",
+		value: 0.006165720446288668
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.66693105832478
+	}, 
+	{
+		emotion: "sad",
+		value: 0.03292175628849304
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.019749617431703493
+	}, 
+	{
+		emotion: "happy",
+		value: 0.0028476277118002686
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.7355093623511029
+	}, 
+	{
+		emotion: "sad",
+		value: 0.0381973126116086
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.021643371615034587
+	}, 
+	{
+		emotion: "happy",
+		value: 0.0014639361926907445
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.7740870104965116
+	}, 
+	{
+		emotion: "sad",
+		value: 0.04372600726525915
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.02327776547992028
+	}, 
+	{
+		emotion: "happy",
+		value: 0.0009252272093594427
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.7864190217722354
+	}, 
+	{
+		emotion: "sad",
+		value: 0.04847857261010524
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.024961516166459592
+	}, 
+	{
+		emotion: "happy",
+		value: 0.0007328052654287149
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.7785918382589622
+	}, 
+	{
+		emotion: "sad",
+		value: 0.05386197032735675
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.026514633101286534
+	}, 
+	{
+		emotion: "happy",
+		value: 0.0007060003770083202
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.7485398284763904
+	}, 
+	{
+		emotion: "sad",
+		value: 0.057963608789478156
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.029854436569018452
+	}, 
+	{
+		emotion: "happy",
+		value: 0.0008443150527621504
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.7012972066657697
+	}, 
+	{
+		emotion: "sad",
+		value: 0.06214138012696579
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.03403969418400866
+	}, 
+	{
+		emotion: "happy",
+		value: 0.0011530663483501234
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.6461333747964114
+	}, 
+	{
+		emotion: "sad",
+		value: 0.06765755963064811
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.040307213188468666
+	}, 
+	{
+		emotion: "happy",
+		value: 0.0015923582619075517
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.5863930369865027
+	}, 
+	{
+		emotion: "sad",
+		value: 0.07384015875171424
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.04872600285897908
+	}, 
+	{
+		emotion: "happy",
+		value: 0.002161134397464779
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.5330636687315478
+	}, 
+	{
+		emotion: "sad",
+		value: 0.0831604353860879
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.0587523458132563
+	}, 
+	{
+		emotion: "happy",
+		value: 0.002702055425570535
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.4917054101914366
+	}, 
+	{
+		emotion: "sad",
+		value: 0.09271671841177165
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.07201913533216331
+	}, 
+	{
+		emotion: "happy",
+		value: 0.003132559352202514
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.4585813382986206
+	}, 
+	{
+		emotion: "sad",
+		value: 0.10284219836175326
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.09204511607527542
+	}, 
+	{
+		emotion: "happy",
+		value: 0.003396318793915328
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.439378565481785
+	}, 
+	{
+		emotion: "sad",
+		value: 0.11739914882690093
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.11190277816494243
+	}, 
+	{
+		emotion: "happy",
+		value: 0.0033693107656861576
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.43290201592025795
+	}, 
+	{
+		emotion: "sad",
+		value: 0.13300538506793036
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.13259801537766044
+	}, 
+	{
+		emotion: "happy",
+		value: 0.00317984387534298
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.4298302177071112
+	}, 
+	{
+		emotion: "sad",
+		value: 0.1475238820969173
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.1518001897953314
+	}, 
+	{
+		emotion: "happy",
+		value: 0.0029732141887105932
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.4303907710175442
+	}, 
+	{
+		emotion: "sad",
+		value: 0.1583275038026021
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.16701521487627527
+	}, 
+	{
+		emotion: "happy",
+		value: 0.002794055399699798
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.4322994723750079
+	}, 
+	{
+		emotion: "sad",
+		value: 0.16635818012582207
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.17713651451590198
+	}, 
+	{
+		emotion: "happy",
+		value: 0.0026890032589580236
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.4343791408400267
+	}, 
+	{
+		emotion: "sad",
+		value: 0.1664552496995938
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.1885699528995045
+	}, 
+	{
+		emotion: "happy",
+		value: 0.002711360427519264
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.435632650912662
+	}, 
+	{
+		emotion: "sad",
+		value: 0.1619136882915909
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.19452034919294345
+	}, 
+	{
+		emotion: "happy",
+		value: 0.0029534045481324953
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.4199278505899377
+	}, 
+	{
+		emotion: "sad",
+		value: 0.15464280549832818
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.1971432211169674
+	}, 
+	{
+		emotion: "happy",
+		value: 0.0036508680451861598
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.3924174283345814
+	}, 
+	{
+		emotion: "sad",
+		value: 0.14481850522517115
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.19550325326512816
+	}, 
+	{
+		emotion: "happy",
+		value: 0.004960156526802723
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.36505867184643787
+	}, 
+	{
+		emotion: "sad",
+		value: 0.13805711798984477
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.1811157221788189
+	}, 
+	{
+		emotion: "happy",
+		value: 0.006886350701785781
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.33362092697366263
+	}, 
+	{
+		emotion: "sad",
+		value: 0.1318990776543932
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.17469548522759157
+	}, 
+	{
+		emotion: "happy",
+		value: 0.009600563945714664
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.3091650058678399
+	}, 
+	{
+		emotion: "sad",
+		value: 0.13229315182156237
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.16298203095812364
+	}, 
+	{
+		emotion: "happy",
+		value: 0.012497308877605154
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.285326859947052
+	}, 
+	{
+		emotion: "sad",
+		value: 0.1301995574377359
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.15768907962151574
+	}, 
+	{
+		emotion: "happy",
+		value: 0.01620605248532972
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.26676005724387775
+	}, 
+	{
+		emotion: "sad",
+		value: 0.13026505488494083
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.147429297881421
+	}, 
+	{
+		emotion: "happy",
+		value: 0.020155828103137017
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.24900671393446328
+	}, 
+	{
+		emotion: "sad",
+		value: 0.12802164826289097
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.14320986162457805
+	}, 
+	{
+		emotion: "happy",
+		value: 0.024495749925188333
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.23292689935485184
+	}, 
+	{
+		emotion: "sad",
+		value: 0.1254001237002301
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.13618898152867065
+	}, 
+	{
+		emotion: "happy",
+		value: 0.029692151182846478
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.21583140692367042
+	}, 
+	{
+		emotion: "sad",
+		value: 0.12409896505820062
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.1320526855055208
+	}, 
+	{
+		emotion: "happy",
+		value: 0.03553717120439437
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.2081136198701185
+	}, 
+	{
+		emotion: "sad",
+		value: 0.1218608573311586
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.12770777821695986
+	}, 
+	{
+		emotion: "happy",
+		value: 0.04007650249619371
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.20510214172108016
+	}, 
+	{
+		emotion: "sad",
+		value: 0.12070622164224178
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.12635116897824392
+	}, 
+	{
+		emotion: "happy",
+		value: 0.042426553607988964
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.20049813788049853
+	}, 
+	{
+		emotion: "sad",
+		value: 0.1201761089294127
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.13006317900223846
+	}, 
+	{
+		emotion: "happy",
+		value: 0.04385460710288824
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.20073116781133515
+	}, 
+	{
+		emotion: "sad",
+		value: 0.12055170200985202
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.13224210142324153
+	}, 
+	{
+		emotion: "happy",
+		value: 0.043711263327715084
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.20025925269545963
+	}, 
+	{
+		emotion: "sad",
+		value: 0.119649095494922
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.13977163070059692
+	}, 
+	{
+		emotion: "happy",
+		value: 0.043778543024533864
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.202156675614958
+	}, 
+	{
+		emotion: "sad",
+		value: 0.12081657459320691
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.14528530930582476
+	}, 
+	{
+		emotion: "happy",
+		value: 0.04294628499331114
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.20177858769758714
+	}, 
+	{
+		emotion: "sad",
+		value: 0.1216267728730977
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.1515945345350663
+	}, 
+	{
+		emotion: "happy",
+		value: 0.042832799314349294
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.20834481678214495
+	}, 
+	{
+		emotion: "sad",
+		value: 0.12138112724111298
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.1534282570806503
+	}, 
+	{
+		emotion: "happy",
+		value: 0.0411828447282504
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.21637450296893718
+	}, 
+	{
+		emotion: "sad",
+		value: 0.12224112728069578
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.15185900432253133
+	}, 
+	{
+		emotion: "happy",
+		value: 0.03865558326769029
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.20161753543722305
+	}, 
+	{
+		emotion: "sad",
+		value: 0.11479644273767427
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.1363354763894012
+	}, 
+	{
+		emotion: "happy",
+		value: 0.04391865769181568
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.1862139376132368
+	}, 
+	{
+		emotion: "sad",
+		value: 0.10860552530810004
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.12305269094959163
+	}, 
+	{
+		emotion: "happy",
+		value: 0.04956630262957572
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.1720031083867523
+	}, 
+	{
+		emotion: "sad",
+		value: 0.10276902307348398
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.1105042777093827
+	}, 
+	{
+		emotion: "happy",
+		value: 0.05644999024180202
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.15987049076595142
+	}, 
+	{
+		emotion: "sad",
+		value: 0.09538505061392176
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.09925147804439352
+	}, 
+	{
+		emotion: "happy",
+		value: 0.06536658027134318
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.14734968765886408
+	}, 
+	{
+		emotion: "sad",
+		value: 0.09496253416597268
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.08390650647717084
+	}, 
+	{
+		emotion: "happy",
+		value: 0.07490289292453108
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.13820706286969786
+	}, 
+	{
+		emotion: "sad",
+		value: 0.09468671901725446
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.06748569710679582
+	}, 
+	{
+		emotion: "happy",
+		value: 0.08504719105550722
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.13009549240753782
+	}, 
+	{
+		emotion: "sad",
+		value: 0.09147765711308434
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.05328855166607176
+	}, 
+	{
+		emotion: "happy",
+		value: 0.09687753893737953
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.12418310824511211
+	}, 
+	{
+		emotion: "sad",
+		value: 0.0842278949017425
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.04225086332560769
+	}, 
+	{
+		emotion: "happy",
+		value: 0.1068560900592155
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.11855535472695625
+	}, 
+	{
+		emotion: "sad",
+		value: 0.07389270514267415
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.032708920988363886
+	}, 
+	{
+		emotion: "happy",
+		value: 0.11723105035585066
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.11524380468720062
+	}, 
+	{
+		emotion: "sad",
+		value: 0.05935144868681346
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.02658091380119291
+	}, 
+	{
+		emotion: "happy",
+		value: 0.13196054646322308
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.1259757036662912
+	}, 
+	{
+		emotion: "sad",
+		value: 0.04604081474544645
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.025328649266262028
+	}, 
+	{
+		emotion: "happy",
+		value: 0.1354594968964165
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.12810852649067656
+	}, 
+	{
+		emotion: "sad",
+		value: 0.03322537819755551
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.025020632462528992
+	}, 
+	{
+		emotion: "happy",
+		value: 0.16437425399980043
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.11701663936737797
+	}, 
+	{
+		emotion: "sad",
+		value: 0.025270972510419855
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.026852635005344513
+	}, 
+	{
+		emotion: "happy",
+		value: 0.21939453302874654
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.09864638508579471
+	}, 
+	{
+		emotion: "sad",
+		value: 0.019554963839017444
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.03107303639303026
+	}, 
+	{
+		emotion: "happy",
+		value: 0.3103843641335893
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.08192571881338118
+	}, 
+	{
+		emotion: "sad",
+		value: 0.014703015413211102
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.04140202100908918
+	}, 
+	{
+		emotion: "happy",
+		value: 0.424278930302986
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.06661455968551722
+	}, 
+	{
+		emotion: "sad",
+		value: 0.01141491396121703
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.06061288243056374
+	}, 
+	{
+		emotion: "happy",
+		value: 0.5481879771932338
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.05373079784187362
+	}, 
+	{
+		emotion: "sad",
+		value: 0.009441504037596103
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.09120955792277313
+	}, 
+	{
+		emotion: "happy",
+		value: 0.6650608144408479
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.041227919104324114
+	}, 
+	{
+		emotion: "sad",
+		value: 0.009137083439752683
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.13858029036391964
+	}, 
+	{
+		emotion: "happy",
+		value: 0.7681214100186322
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.030690718796520643
+	}, 
+	{
+		emotion: "sad",
+		value: 0.009920140800145244
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.21609757191677226
+	}, 
+	{
+		emotion: "happy",
+		value: 0.8436674467036788
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.022312314471321894
+	}, 
+	{
+		emotion: "sad",
+		value: 0.012047668994261677
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.3106071887539692
+	}, 
+	{
+		emotion: "happy",
+		value: 0.8917330168760933
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.016739324544008928
+	}, 
+	{
+		emotion: "sad",
+		value: 0.015921288685635335
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.40756748919785174
+	}, 
+	{
+		emotion: "happy",
+		value: 0.9160173672509612
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.013586864926625914
+	}, 
+	{
+		emotion: "sad",
+		value: 0.022872338437162562
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.49055712827049464
+	}, 
+	{
+		emotion: "happy",
+		value: 0.9213605787241962
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.012286347627275967
+	}, 
+	{
+		emotion: "sad",
+		value: 0.033098808640528644
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.5427104845652035
+	}, 
+	{
+		emotion: "happy",
+		value: 0.9141044560815974
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.011947792525976183
+	}, 
+	{
+		emotion: "sad",
+		value: 0.05087238300186735
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.572778961386158
+	}, 
+	{
+		emotion: "happy",
+		value: 0.8913964078463161
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.011663500386365757
+	}, 
+	{
+		emotion: "sad",
+		value: 0.07649799962769521
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.5825060781863914
+	}, 
+	{
+		emotion: "happy",
+		value: 0.8627695498098549
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.011392229195235484
+	}, 
+	{
+		emotion: "sad",
+		value: 0.11128316686179687
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.5819858726305142
+	}, 
+	{
+		emotion: "happy",
+		value: 0.8237097745506061
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.011089327420957947
+	}, 
+	{
+		emotion: "sad",
+		value: 0.15062579348067132
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.5750267079526454
+	}, 
+	{
+		emotion: "happy",
+		value: 0.7733055728029012
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.011550754486628964
+	}, 
+	{
+		emotion: "sad",
+		value: 0.17278693548457924
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.5521148597060785
+	}, 
+	{
+		emotion: "happy",
+		value: 0.7036578521522602
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.013057962548460813
+	}, 
+	{
+		emotion: "sad",
+		value: 0.1668991703348967
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.5103328841260102
+	}, 
+	{
+		emotion: "happy",
+		value: 0.617815327135691
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.016514144810195773
+	}, 
+	{
+		emotion: "sad",
+		value: 0.13620076248258728
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.4502720109509612
+	}, 
+	{
+		emotion: "happy",
+		value: 0.5151525964192067
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.023448707506014698
+	}, 
+	{
+		emotion: "sad",
+		value: 0.10176386530630703
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.36448771316146217
+	}, 
+	{
+		emotion: "happy",
+		value: 0.393208077703025
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.03641343402339866
+	}, 
+	{
+		emotion: "sad",
+		value: 0.06892028023545974
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.2899328058230645
+	}, 
+	{
+		emotion: "happy",
+		value: 0.2710746915676687
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.05867427446090226
+	}, 
+	{
+		emotion: "sad",
+		value: 0.041562774258890385
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.2273444355054134
+	}, 
+	{
+		emotion: "happy",
+		value: 0.18246751539659173
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.09594470480217257
+	}, 
+	{
+		emotion: "sad",
+		value: 0.022779619638763224
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.1757516685331955
+	}, 
+	{
+		emotion: "happy",
+		value: 0.12478834186280112
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.15183550603874366
+	}, 
+	{
+		emotion: "sad",
+		value: 0.012293754645199379
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.13256030972622398
+	}, 
+	{
+		emotion: "happy",
+		value: 0.08895570582075989
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.22704444769805207
+	}, 
+	{
+		emotion: "sad",
+		value: 0.006958655347780722
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.09950414981091962
+	}, 
+	{
+		emotion: "happy",
+		value: 0.06572713354134894
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.3153371699903821
+	}, 
+	{
+		emotion: "sad",
+		value: 0.004295088440027315
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.0776006208953256
+	}, 
+	{
+		emotion: "happy",
+		value: 0.05120367350527997
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.3961660199049862
+	}, 
+	{
+		emotion: "sad",
+		value: 0.00314317090968571
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.06569353547140863
+	}, 
+	{
+		emotion: "happy",
+		value: 0.0431818411569099
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.4563537589502378
+	}, 
+	{
+		emotion: "sad",
+		value: 0.0028937348933861487
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.060669302540205076
+	}, 
+	{
+		emotion: "happy",
+		value: 0.03930413988090919
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.47769023842673014
+	}, 
+	{
+		emotion: "sad",
+		value: 0.00325201821852468
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.06229722356426778
+	}, 
+	{
+		emotion: "happy",
+		value: 0.04032393178648276
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.4649851142793032
+	}, 
+	{
+		emotion: "sad",
+		value: 0.0040814037973742265
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.07268429724789603
+	}, 
+	{
+		emotion: "happy",
+		value: 0.04614346082249885
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.42424879358577416
+	}, 
+	{
+		emotion: "sad",
+		value: 0.005535250994121011
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.08951626398032701
+	}, 
+	{
+		emotion: "happy",
+		value: 0.05725530870572264
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.37542189153688627
+	}, 
+	{
+		emotion: "sad",
+		value: 0.007790527952197359
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.11164926068650587
+	}, 
+	{
+		emotion: "happy",
+		value: 0.07190173237614648
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.328097982164947
+	}, 
+	{
+		emotion: "sad",
+		value: 0.0111329713631951
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.13798747882064352
+	}, 
+	{
+		emotion: "happy",
+		value: 0.08635471528869589
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.285727661565143
+	}, 
+	{
+		emotion: "sad",
+		value: 0.014760548215435503
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.16945541869889735
+	}, 
+	{
+		emotion: "happy",
+		value: 0.10181810225847927
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.2526081966804648
+	}, 
+	{
+		emotion: "sad",
+		value: 0.018369037762030586
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.20233530494129032
+	}, 
+	{
+		emotion: "happy",
+		value: 0.1145702314757347
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.22982066663254433
+	}, 
+	{
+		emotion: "sad",
+		value: 0.02118031408219997
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.2274599784784008
+	}, 
+	{
+		emotion: "happy",
+		value: 0.12532511842400465
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.22597671936762362
+	}, 
+	{
+		emotion: "sad",
+		value: 0.022450898858216932
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.2421536786500693
+	}, 
+	{
+		emotion: "happy",
+		value: 0.12569248481846093
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.2303463335769834
+	}, 
+	{
+		emotion: "sad",
+		value: 0.021008072022231435
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.24086896312505737
+	}, 
+	{
+		emotion: "happy",
+		value: 0.12549975542210293
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.24367449482592518
+	}, 
+	{
+		emotion: "sad",
+		value: 0.018797430280688116
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.2305355045607633
+	}, 
+	{
+		emotion: "happy",
+		value: 0.11962356775270457
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.25633487135535443
+	}, 
+	{
+		emotion: "sad",
+		value: 0.016704627773530368
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.21923242045711708
+	}, 
+	{
+		emotion: "happy",
+		value: 0.11311871150605818
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.2734683711527357
+	}, 
+	{
+		emotion: "sad",
+		value: 0.015026503723290705
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.20206063608816033
+	}, 
+	{
+		emotion: "happy",
+		value: 0.10448168222581236
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.29428795727065804
+	}, 
+	{
+		emotion: "sad",
+		value: 0.013609996700678246
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.18437915659610907
+	}, 
+	{
+		emotion: "happy",
+		value: 0.0939520192916473
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.2730122589733238
+	}, 
+	{
+		emotion: "sad",
+		value: 0.01464390423811663
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.1572170755404929
+	}, 
+	{
+		emotion: "happy",
+		value: 0.0972478495181262
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.2533931010161895
+	}, 
+	{
+		emotion: "sad",
+		value: 0.0163303468433634
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.13568449207601285
+	}, 
+	{
+		emotion: "happy",
+		value: 0.09782726916384077
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.23217634063642978
+	}, 
+	{
+		emotion: "sad",
+		value: 0.01809290303417998
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.11668035134174196
+	}, 
+	{
+		emotion: "happy",
+		value: 0.10259224447219517
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.2141866256474026
+	}, 
+	{
+		emotion: "sad",
+		value: 0.019895431280169098
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.09323236504061924
+	}, 
+	{
+		emotion: "happy",
+		value: 0.1093564512352653
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.19317110217104566
+	}, 
+	{
+		emotion: "sad",
+		value: 0.02185501914641494
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.07069359969947253
+	}, 
+	{
+		emotion: "happy",
+		value: 0.12079874536991364
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.1736376939632179
+	}, 
+	{
+		emotion: "sad",
+		value: 0.025904430383107926
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.052483254822553435
+	}, 
+	{
+		emotion: "happy",
+		value: 0.12360103391002283
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.16140770646673877
+	}, 
+	{
+		emotion: "sad",
+		value: 0.03130731985221314
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.03919901919551227
+	}, 
+	{
+		emotion: "happy",
+		value: 0.11233725191620784
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.15720006787162774
+	}, 
+	{
+		emotion: "sad",
+		value: 0.037134639552935424
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.028242339666948987
+	}, 
+	{
+		emotion: "happy",
+		value: 0.09093861665580821
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.15826366365246541
+	}, 
+	{
+		emotion: "sad",
+		value: 0.0431976566068126
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.020505929815050804
+	}, 
+	{
+		emotion: "happy",
+		value: 0.06754606003614401
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.1572326714558763
+	}, 
+	{
+		emotion: "sad",
+		value: 0.05013203371918792
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.015247886217156045
+	}, 
+	{
+		emotion: "happy",
+		value: 0.04891227978011155
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.18239384323568633
+	}, 
+	{
+		emotion: "sad",
+		value: 0.04740257140889274
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.012220644639462066
+	}, 
+	{
+		emotion: "happy",
+		value: 0.03186921593903952
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.20878678255478203
+	}, 
+	{
+		emotion: "sad",
+		value: 0.04483850321247089
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.009563395279892657
+	}, 
+	{
+		emotion: "happy",
+		value: 0.021177241149262078
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.2359233173385136
+	}, 
+	{
+		emotion: "sad",
+		value: 0.042777347481031854
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.00749274885240482
+	}, 
+	{
+		emotion: "happy",
+		value: 0.014306639696942144
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.2633512486917946
+	}, 
+	{
+		emotion: "sad",
+		value: 0.04271537670036219
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.006478462413420741
+	}, 
+	{
+		emotion: "happy",
+		value: 0.00940399388131773
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.28887185894748424
+	}, 
+	{
+		emotion: "sad",
+		value: 0.04256224311839507
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.005893504201045878
+	}, 
+	{
+		emotion: "happy",
+		value: 0.006448522732220716
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.3045290692698454
+	}, 
+	{
+		emotion: "sad",
+		value: 0.04102508204763946
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.005668475682415471
+	}, 
+	{
+		emotion: "happy",
+		value: 0.005028371743017936
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.30682543082446456
+	}, 
+	{
+		emotion: "sad",
+		value: 0.039975526909762304
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.005478060370316339
+	}, 
+	{
+		emotion: "happy",
+		value: 0.0045827951828361635
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.2938860359183251
+	}, 
+	{
+		emotion: "sad",
+		value: 0.0401602256053317
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.005457072681431969
+	}, 
+	{
+		emotion: "happy",
+		value: 0.00484423248656241
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.27310522106774493
+	}, 
+	{
+		emotion: "sad",
+		value: 0.04074881990273294
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.00539796964885017
+	}, 
+	{
+		emotion: "happy",
+		value: 0.005755893305750054
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.25594185806458203
+	}, 
+	{
+		emotion: "sad",
+		value: 0.04009008894973775
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.005335040821151394
+	}, 
+	{
+		emotion: "happy",
+		value: 0.007153810747864836
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.24115233460382024
+	}, 
+	{
+		emotion: "sad",
+		value: 0.038476589112958814
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.005394350644314149
+	}, 
+	{
+		emotion: "happy",
+		value: 0.008992542104130582
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.22911670187792538
+	}, 
+	{
+		emotion: "sad",
+		value: 0.0373556172148184
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.005443519260786182
+	}, 
+	{
+		emotion: "happy",
+		value: 0.011035298866586166
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.21875319132801666
+	}, 
+	{
+		emotion: "sad",
+		value: 0.03517096249290118
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.005609338412522743
+	}, 
+	{
+		emotion: "happy",
+		value: 0.013475601191541276
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.20702396899094871
+	}, 
+	{
+		emotion: "sad",
+		value: 0.03362065728458253
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.005671434360740558
+	}, 
+	{
+		emotion: "happy",
+		value: 0.016374102823904425
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.19542265704708756
+	}, 
+	{
+		emotion: "sad",
+		value: 0.032547231278871075
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.005828953660321808
+	}, 
+	{
+		emotion: "happy",
+		value: 0.01929713115525508
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.18743404314901826
+	}, 
+	{
+		emotion: "sad",
+		value: 0.03207306397208566
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.005966093108469846
+	}, 
+	{
+		emotion: "happy",
+		value: 0.021620307624543793
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.18025083997973076
+	}, 
+	{
+		emotion: "sad",
+		value: 0.03076989540232321
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.006330030900021421
+	}, 
+	{
+		emotion: "happy",
+		value: 0.023747454918390924
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.17686966581178176
+	}, 
+	{
+		emotion: "sad",
+		value: 0.029916102694813762
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.006596202584879491
+	}, 
+	{
+		emotion: "happy",
+		value: 0.02475263289141245
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.17540414996900275
+	}, 
+	{
+		emotion: "sad",
+		value: 0.029481869645835646
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.006867660776576746
+	}, 
+	{
+		emotion: "happy",
+		value: 0.024611657125114966
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.1739531576391109
+	}, 
+	{
+		emotion: "sad",
+		value: 0.030129027246315387
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.007073479318257168
+	}, 
+	{
+		emotion: "happy",
+		value: 0.023704560518475144
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.17134728455284712
+	}, 
+	{
+		emotion: "sad",
+		value: 0.032045139446666426
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.007218726025491286
+	}, 
+	{
+		emotion: "happy",
+		value: 0.022470496177661132
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.16802587814417733
+	}, 
+	{
+		emotion: "sad",
+		value: 0.033320418742190126
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.007537706755022069
+	}, 
+	{
+		emotion: "happy",
+		value: 0.02175813474405809
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.16510896807706865
+	}, 
+	{
+		emotion: "sad",
+		value: 0.034704691033034606
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.007611664340701235
+	}, 
+	{
+		emotion: "happy",
+		value: 0.021155463309623885
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.1637221790741968
+	}, 
+	{
+		emotion: "sad",
+		value: 0.03565668298677319
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.007725575191632262
+	}, 
+	{
+		emotion: "happy",
+		value: 0.020353912859655904
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.16366427023729685
+	}, 
+	{
+		emotion: "sad",
+		value: 0.03779526546679961
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.0076535048804892165
+	}, 
+	{
+		emotion: "happy",
+		value: 0.018950648995914324
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.1655392938944575
+	}, 
+	{
+		emotion: "sad",
+		value: 0.04035867576472387
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.007579476264670735
+	}, 
+	{
+		emotion: "happy",
+		value: 0.017142879616063103
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.16893281467454965
+	}, 
+	{
+		emotion: "sad",
+		value: 0.043899927392929375
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.007268551103822541
+	}, 
+	{
+		emotion: "happy",
+		value: 0.015309952447607697
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.17048975972046226
+	}, 
+	{
+		emotion: "sad",
+		value: 0.04649549432409972
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.007027711239216065
+	}, 
+	{
+		emotion: "happy",
+		value: 0.014180180513857343
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.17167219732656117
+	}, 
+	{
+		emotion: "sad",
+		value: 0.04845921463058989
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.006852221757487488
+	}, 
+	{
+		emotion: "happy",
+		value: 0.013337116245797344
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.1738319829702976
+	}, 
+	{
+		emotion: "sad",
+		value: 0.049908207568878135
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.0067088168711211356
+	}, 
+	{
+		emotion: "happy",
+		value: 0.012529695306255001
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.17739838019691298
+	}, 
+	{
+		emotion: "sad",
+		value: 0.05125365552671218
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.006497992416339169
+	}, 
+	{
+		emotion: "happy",
+		value: 0.01165618294629914
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.1806288236194125
+	}, 
+	{
+		emotion: "sad",
+		value: 0.0535068858901746
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.006135768186330743
+	}, 
+	{
+		emotion: "happy",
+		value: 0.010749517587017093
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.18304537382644756
+	}, 
+	{
+		emotion: "sad",
+		value: 0.05672632290200669
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.005797355488220401
+	}, 
+	{
+		emotion: "happy",
+		value: 0.009854490550332374
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.18832856573074028
+	}, 
+	{
+		emotion: "sad",
+		value: 0.06078556926273262
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.00543385039690921
+	}, 
+	{
+		emotion: "happy",
+		value: 0.00878866962517736
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.19486686394440642
+	}, 
+	{
+		emotion: "sad",
+		value: 0.06203546822297343
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.005248719579217031
+	}, 
+	{
+		emotion: "happy",
+		value: 0.00803936763533413
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.20015011911532163
+	}, 
+	{
+		emotion: "sad",
+		value: 0.061174423277536395
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.005173409371516143
+	}, 
+	{
+		emotion: "happy",
+		value: 0.007631696484936917
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.20628624619622804
+	}, 
+	{
+		emotion: "sad",
+		value: 0.06159032809801194
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.004967138019321263
+	}, 
+	{
+		emotion: "happy",
+		value: 0.007206301001686316
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.21559088052589523
+	}, 
+	{
+		emotion: "sad",
+		value: 0.06188940970974566
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.004777536126198906
+	}, 
+	{
+		emotion: "happy",
+		value: 0.0067080007028969945
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.22329836552931853
+	}, 
+	{
+		emotion: "sad",
+		value: 0.06312289651292578
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.004545229249743942
+	}, 
+	{
+		emotion: "happy",
+		value: 0.0063095793168740436
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.22614012622930937
+	}, 
+	{
+		emotion: "sad",
+		value: 0.06665620567998702
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.0042298066326481
+	}, 
+	{
+		emotion: "happy",
+		value: 0.00605375016634111
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.2264770139706745
+	}, 
+	{
+		emotion: "sad",
+		value: 0.0688161273909867
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.003885952596739202
+	}, 
+	{
+		emotion: "happy",
+		value: 0.0060824332173217395
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.22566341464654227
+	}, 
+	{
+		emotion: "sad",
+		value: 0.06903322671381622
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.0036786506499680073
+	}, 
+	{
+		emotion: "happy",
+		value: 0.006154174545928391
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.2098807387664248
+	}, 
+	{
+		emotion: "sad",
+		value: 0.06953430813274258
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.0047807455843381615
+	}, 
+	{
+		emotion: "happy",
+		value: 0.008401048672956017
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.19215375752813138
+	}, 
+	{
+		emotion: "sad",
+		value: 0.06831045981487846
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.0063247307916084955
+	}, 
+	{
+		emotion: "happy",
+		value: 0.011876805485135257
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.1745922941695899
+	}, 
+	{
+		emotion: "sad",
+		value: 0.06759432819448859
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.008219331116026506
+	}, 
+	{
+		emotion: "happy",
+		value: 0.01698207643269489
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.15865434573199647
+	}, 
+	{
+		emotion: "sad",
+		value: 0.06805102126430211
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.010414135717084804
+	}, 
+	{
+		emotion: "happy",
+		value: 0.02419057676365853
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.1396422877668939
+	}, 
+	{
+		emotion: "sad",
+		value: 0.06526469949942545
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.01200788775051792
+	}, 
+	{
+		emotion: "happy",
+		value: 0.037244691632428883
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.1240500372467151
+	}, 
+	{
+		emotion: "sad",
+		value: 0.060902692148420964
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.013035871059816101
+	}, 
+	{
+		emotion: "happy",
+		value: 0.05683522368259328
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.11390053559729975
+	}, 
+	{
+		emotion: "sad",
+		value: 0.053518600834249926
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.013823248591876294
+	}, 
+	{
+		emotion: "happy",
+		value: 0.08210553420319462
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.11470990211770181
+	}, 
+	{
+		emotion: "sad",
+		value: 0.04354830038533055
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.014673232377602445
+	}, 
+	{
+		emotion: "happy",
+		value: 0.10465458178793942
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.1251083963958345
+	}, 
+	{
+		emotion: "sad",
+		value: 0.03628099011423004
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.015426756227093335
+	}, 
+	{
+		emotion: "happy",
+		value: 0.1103546020324593
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.14230756322903265
+	}, 
+	{
+		emotion: "sad",
+		value: 0.031325358654864174
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.016508458518683013
+	}, 
+	{
+		emotion: "happy",
+		value: 0.10221121595730981
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.18152411679444666
+	}, 
+	{
+		emotion: "sad",
+		value: 0.02833962494948309
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.013126807155361122
+	}, 
+	{
+		emotion: "happy",
+		value: 0.06237663972522484
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.23203208169409364
+	}, 
+	{
+		emotion: "sad",
+		value: 0.026377606528209568
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.01047230393671045
+	}, 
+	{
+		emotion: "happy",
+		value: 0.034811204670256876
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.29008274813339424
+	}, 
+	{
+		emotion: "sad",
+		value: 0.02467576416407761
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.008277975547146075
+	}, 
+	{
+		emotion: "happy",
+		value: 0.018998834129868556
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.35118340815545573
+	}, 
+	{
+		emotion: "sad",
+		value: 0.023214172591721004
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.006403920618229179
+	}, 
+	{
+		emotion: "happy",
+		value: 0.010482175735036252
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.41537663024156796
+	}, 
+	{
+		emotion: "sad",
+		value: 0.02187174385207726
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.005586555216626514
+	}, 
+	{
+		emotion: "happy",
+		value: 0.00572134856581056
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.4677382767502938
+	}, 
+	{
+		emotion: "sad",
+		value: 0.021354185067461867
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.005106042477180727
+	}, 
+	{
+		emotion: "happy",
+		value: 0.0032930967041833507
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.5034998146333853
+	}, 
+	{
+		emotion: "sad",
+		value: 0.021858051284397023
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.004784330833023065
+	}, 
+	{
+		emotion: "happy",
+		value: 0.0020937799097414857
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.5113580473038677
+	}, 
+	{
+		emotion: "sad",
+		value: 0.022881404142409138
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.004699828534648062
+	}, 
+	{
+		emotion: "happy",
+		value: 0.0015616586540935424
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.5001028102876482
+	}, 
+	{
+		emotion: "sad",
+		value: 0.023456395097556645
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.004895409423082104
+	}, 
+	{
+		emotion: "happy",
+		value: 0.0013825142683431544
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.48214822631755233
+	}, 
+	{
+		emotion: "sad",
+		value: 0.023181321936099633
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.005079907094918972
+	}, 
+	{
+		emotion: "happy",
+		value: 0.0013929951141485842
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.4525704168874097
+	}, 
+	{
+		emotion: "sad",
+		value: 0.022564177468467166
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.005118364803482721
+	}, 
+	{
+		emotion: "happy",
+		value: 0.0015990188323648385
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.4192900629528081
+	}, 
+	{
+		emotion: "sad",
+		value: 0.02167719735957261
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.005014437478221994
+	}, 
+	{
+		emotion: "happy",
+		value: 0.0019749760105897936
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.3860859276575829
+	}, 
+	{
+		emotion: "sad",
+		value: 0.021134080455473114
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.004851173543331456
+	}, 
+	{
+		emotion: "happy",
+		value: 0.002450835765746493
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.35376983755652586
+	}, 
+	{
+		emotion: "sad",
+		value: 0.020687043218627226
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.004869885646485269
+	}, 
+	{
+		emotion: "happy",
+		value: 0.002972684160075266
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.32833180904171894
+	}, 
+	{
+		emotion: "sad",
+		value: 0.020708096708440503
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.004942691468889949
+	}, 
+	{
+		emotion: "happy",
+		value: 0.003420961522360377
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.3058725206747583
+	}, 
+	{
+		emotion: "sad",
+		value: 0.020573823519566943
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.005237401821621731
+	}, 
+	{
+		emotion: "happy",
+		value: 0.003859224675345051
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.2876916513178283
+	}, 
+	{
+		emotion: "sad",
+		value: 0.020108297706719024
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.005768770145204028
+	}, 
+	{
+		emotion: "happy",
+		value: 0.004222439784653174
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.27095095083876003
+	}, 
+	{
+		emotion: "sad",
+		value: 0.020224339193637787
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.006421406610180727
+	}, 
+	{
+		emotion: "happy",
+		value: 0.00447483678143581
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.2525472394725833
+	}, 
+	{
+		emotion: "sad",
+		value: 0.0213486280521279
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.0068602253319071755
+	}, 
+	{
+		emotion: "happy",
+		value: 0.004666690273848369
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.23468517912832432
+	}, 
+	{
+		emotion: "sad",
+		value: 0.023494397246363152
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.00701753265027378
+	}, 
+	{
+		emotion: "happy",
+		value: 0.004772086209240483
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.2171441174561286
+	}, 
+	{
+		emotion: "sad",
+		value: 0.024802694088827532
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.007391153270498627
+	}, 
+	{
+		emotion: "happy",
+		value: 0.0049187381507688616
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.2025306218264374
+	}, 
+	{
+		emotion: "sad",
+		value: 0.02464823036590606
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.007887946696049104
+	}, 
+	{
+		emotion: "happy",
+		value: 0.005147307154919653
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.18947081766128307
+	}, 
+	{
+		emotion: "sad",
+		value: 0.024154705815828726
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.00860793930817829
+	}, 
+	{
+		emotion: "happy",
+		value: 0.0053665490233832025
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.17989306565909047
+	}, 
+	{
+		emotion: "sad",
+		value: 0.023339137750371722
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.009136421074553593
+	}, 
+	{
+		emotion: "happy",
+		value: 0.005616527850009692
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.17401382156601067
+	}, 
+	{
+		emotion: "sad",
+		value: 0.022549644596044312
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.009425396797434876
+	}, 
+	{
+		emotion: "happy",
+		value: 0.005805477280973256
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.17039159365093717
+	}, 
+	{
+		emotion: "sad",
+		value: 0.021835566522775192
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.00949304523902441
+	}, 
+	{
+		emotion: "happy",
+		value: 0.0058709604085129645
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.1664963066550234
+	}, 
+	{
+		emotion: "sad",
+		value: 0.021994718647131872
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.009416717531346687
+	}, 
+	{
+		emotion: "happy",
+		value: 0.005725123860592106
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.16633693636255986
+	}, 
+	{
+		emotion: "sad",
+		value: 0.022563874619227604
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.00897934833591828
+	}, 
+	{
+		emotion: "happy",
+		value: 0.005347541958624588
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.16408088000388008
+	}, 
+	{
+		emotion: "sad",
+		value: 0.023097600987159714
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.008588303187810155
+	}, 
+	{
+		emotion: "happy",
+		value: 0.005123671729304529
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.16993659345975443
+	}, 
+	{
+		emotion: "sad",
+		value: 0.022882032876076847
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.008341108142975843
+	}, 
+	{
+		emotion: "happy",
+		value: 0.004590170592144474
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.18245538332254715
+	}, 
+	{
+		emotion: "sad",
+		value: 0.022528261727830453
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.008033875165970485
+	}, 
+	{
+		emotion: "happy",
+		value: 0.0038574889596933197
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.2166900152055862
+	}, 
+	{
+		emotion: "sad",
+		value: 0.023065146042149428
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.007586536205918211
+	}, 
+	{
+		emotion: "happy",
+		value: 0.002669911773112711
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.27754431383135325
+	}, 
+	{
+		emotion: "sad",
+		value: 0.022726503950702977
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.006995780101431686
+	}, 
+	{
+		emotion: "happy",
+		value: 0.0016762166950554658
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.36092069693552814
+	}, 
+	{
+		emotion: "sad",
+		value: 0.021399605142966377
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.006222122999652967
+	}, 
+	{
+		emotion: "happy",
+		value: 0.001040361827391397
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.45271219615994995
+	}, 
+	{
+		emotion: "sad",
+		value: 0.019378891188136495
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.005387470659179489
+	}, 
+	{
+		emotion: "happy",
+		value: 0.0006713947313132974
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.5468158061758717
+	}, 
+	{
+		emotion: "sad",
+		value: 0.017287559699863057
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.004402157830524636
+	}, 
+	{
+		emotion: "happy",
+		value: 0.0004613034623322148
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.6390444372791605
+	}, 
+	{
+		emotion: "sad",
+		value: 0.015158600661953044
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.0034341057688692406
+	}, 
+	{
+		emotion: "happy",
+		value: 0.0003350667655075608
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.7246955660823285
+	}, 
+	{
+		emotion: "sad",
+		value: 0.013205584324605212
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.002708975588979472
+	}, 
+	{
+		emotion: "happy",
+		value: 0.00024984732842155084
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.8098278308540419
+	}, 
+	{
+		emotion: "sad",
+		value: 0.012021403709329193
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.0022641419738835865
+	}, 
+	{
+		emotion: "happy",
+		value: 0.00016727089664827867
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.8738023225709847
+	}, 
+	{
+		emotion: "sad",
+		value: 0.011515313703377196
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.0020448093921918535
+	}, 
+	{
+		emotion: "happy",
+		value: 0.00011322224558285017
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.9156476923609328
+	}, 
+	{
+		emotion: "sad",
+		value: 0.01137488993320653
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.0019198258666309833
+	}, 
+	{
+		emotion: "happy",
+		value: 0.00008638267910479462
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.9311399839092802
+	}, 
+	{
+		emotion: "sad",
+		value: 0.010613876990430992
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.001855135115021485
+	}, 
+	{
+		emotion: "happy",
+		value: 0.00009926570601679798
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.9300637273606275
+	}, 
+	{
+		emotion: "sad",
+		value: 0.009688037818317948
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.0018637369551608948
+	}, 
+	{
+		emotion: "happy",
+		value: 0.00016598213334236694
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.8931717756630017
+	}, 
+	{
+		emotion: "sad",
+		value: 0.011589059770358318
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.002545851230836074
+	}, 
+	{
+		emotion: "happy",
+		value: 0.000385012022360579
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.8392944393332783
+	}, 
+	{
+		emotion: "sad",
+		value: 0.014433846790226721
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.0036112623793468864
+	}, 
+	{
+		emotion: "happy",
+		value: 0.0008670177704573839
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.7676548354721359
+	}, 
+	{
+		emotion: "sad",
+		value: 0.01835599560075644
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.0053861900736203415
+	}, 
+	{
+		emotion: "happy",
+		value: 0.001829163453103541
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.6786552662675096
+	}, 
+	{
+		emotion: "sad",
+		value: 0.023171227790090558
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.008280290265978204
+	}, 
+	{
+		emotion: "happy",
+		value: 0.003716749568204886
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.568664613842586
+	}, 
+	{
+		emotion: "sad",
+		value: 0.028704983081017908
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.01263108187605549
+	}, 
+	{
+		emotion: "happy",
+		value: 0.007617881414844155
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.4367384560644226
+	}, 
+	{
+		emotion: "sad",
+		value: 0.03340443496867273
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.018299225976843587
+	}, 
+	{
+		emotion: "happy",
+		value: 0.016853416761171906
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.29791507099121556
+	}, 
+	{
+		emotion: "sad",
+		value: 0.03747211846765497
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.024799925934653886
+	}, 
+	{
+		emotion: "happy",
+		value: 0.0394048971861744
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.1878335402836642
+	}, 
+	{
+		emotion: "sad",
+		value: 0.041396446663703367
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.03235965557215126
+	}, 
+	{
+		emotion: "happy",
+		value: 0.08473180236472506
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.1208704591201941
+	}, 
+	{
+		emotion: "sad",
+		value: 0.04855935399272533
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.04220118861417431
+	}, 
+	{
+		emotion: "happy",
+		value: 0.14251497305954883
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.08495773461377512
+	}, 
+	{
+		emotion: "sad",
+		value: 0.05993173506165729
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.054032595527500206
+	}, 
+	{
+		emotion: "happy",
+		value: 0.18562819815754616
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.08495773461377512
+	}, 
+	{
+		emotion: "sad",
+		value: 0.05993173506165729
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.054032595527500206
+	}, 
+	{
+		emotion: "happy",
+		value: 0.18562819815754616
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.08495773461377512
+	}, 
+	{
+		emotion: "sad",
+		value: 0.05993173506165729
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.054032595527500206
+	}, 
+	{
+		emotion: "happy",
+		value: 0.18562819815754616
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.09017957561399167
+	}, 
+	{
+		emotion: "sad",
+		value: 0.056667552664573045
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.05504397058189924
+	}, 
+	{
+		emotion: "happy",
+		value: 0.1770483742577296
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.09957194542945552
+	}, 
+	{
+		emotion: "sad",
+		value: 0.051543103410418095
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.055827169008927716
+	}, 
+	{
+		emotion: "happy",
+		value: 0.1640260220176815
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.11515164874974539
+	}, 
+	{
+		emotion: "sad",
+		value: 0.04732420047889151
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.05644857181568556
+	}, 
+	{
+		emotion: "happy",
+		value: 0.14045162917406245
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.13536455730903366
+	}, 
+	{
+		emotion: "sad",
+		value: 0.040408389597521514
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.059009378969969675
+	}, 
+	{
+		emotion: "happy",
+		value: 0.12256386227901682
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.15423417279020954
+	}, 
+	{
+		emotion: "sad",
+		value: 0.03264803576732087
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.06215736144461001
+	}, 
+	{
+		emotion: "happy",
+		value: 0.11577889428857605
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.16848452934599942
+	}, 
+	{
+		emotion: "sad",
+		value: 0.02543181028962146
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.06586280010790602
+	}, 
+	{
+		emotion: "happy",
+		value: 0.11754703769741857
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.17465966044800457
+	}, 
+	{
+		emotion: "sad",
+		value: 0.01983205157168173
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.07311799789356493
+	}, 
+	{
+		emotion: "happy",
+		value: 0.12779066269161993
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.17494812636888887
+	}, 
+	{
+		emotion: "sad",
+		value: 0.016256295362166644
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.08160622308988126
+	}, 
+	{
+		emotion: "happy",
+		value: 0.1434216023095708
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.1740842573548209
+	}, 
+	{
+		emotion: "sad",
+		value: 0.01340756496439288
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.09080550413142742
+	}, 
+	{
+		emotion: "happy",
+		value: 0.16295695165872465
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.17354089860385144
+	}, 
+	{
+		emotion: "sad",
+		value: 0.011140153769924594
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.10480903145670567
+	}, 
+	{
+		emotion: "happy",
+		value: 0.17733493148358162
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.16675087852267365
+	}, 
+	{
+		emotion: "sad",
+		value: 0.010019160926797624
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.121984825123901
+	}, 
+	{
+		emotion: "happy",
+		value: 0.18761664148959023
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.15975966101801917
+	}, 
+	{
+		emotion: "sad",
+		value: 0.009322844783395876
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.14142525326845434
+	}, 
+	{
+		emotion: "happy",
+		value: 0.19193442737641847
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.15034747278722296
+	}, 
+	{
+		emotion: "sad",
+		value: 0.008097473726755976
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.16056813379323748
+	}, 
+	{
+		emotion: "happy",
+		value: 0.20542282204640638
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.1462866746069356
+	}, 
+	{
+		emotion: "sad",
+		value: 0.0072363782459457645
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.17165622805183664
+	}, 
+	{
+		emotion: "happy",
+		value: 0.20511339007319487
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.15093669780884378
+	}, 
+	{
+		emotion: "sad",
+		value: 0.006464910907411111
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.17790788172620708
+	}, 
+	{
+		emotion: "happy",
+		value: 0.19034440672102965
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.17180341722504647
+	}, 
+	{
+		emotion: "sad",
+		value: 0.005573527141100862
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.17137241976195722
+	}, 
+	{
+		emotion: "happy",
+		value: 0.1657575163512492
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.21891002204441884
+	}, 
+	{
+		emotion: "sad",
+		value: 0.004541692598046881
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.14766622967397902
+	}, 
+	{
+		emotion: "happy",
+		value: 0.13092761350728307
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.293911217014778
+	}, 
+	{
+		emotion: "sad",
+		value: 0.0035690317688650006
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.11924267915690724
+	}, 
+	{
+		emotion: "happy",
+		value: 0.09779720395158366
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.39021788301057914
+	}, 
+	{
+		emotion: "sad",
+		value: 0.002829788413247612
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.09369043611873225
+	}, 
+	{
+		emotion: "happy",
+		value: 0.07055798165244535
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.49517812971207614
+	}, 
+	{
+		emotion: "sad",
+		value: 0.0022167192492671575
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.0712325212405609
+	}, 
+	{
+		emotion: "happy",
+		value: 0.05331335288835675
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.5903946230610074
+	}, 
+	{
+		emotion: "sad",
+		value: 0.0016764210774601275
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.05304025432314649
+	}, 
+	{
+		emotion: "happy",
+		value: 0.04510072107897038
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.6659270689857992
+	}, 
+	{
+		emotion: "sad",
+		value: 0.0012364214398412534
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.041269496326913346
+	}, 
+	{
+		emotion: "happy",
+		value: 0.04166906388179007
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.7209364597910028
+	}, 
+	{
+		emotion: "sad",
+		value: 0.0009596003102006431
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.033838289153077586
+	}, 
+	{
+		emotion: "happy",
+		value: 0.0405084028405772
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.7502168511334778
+	}, 
+	{
+		emotion: "sad",
+		value: 0.000791306631807659
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.029594793117119593
+	}, 
+	{
+		emotion: "happy",
+		value: 0.04325870554591401
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.7605875304702764
+	}, 
+	{
+		emotion: "sad",
+		value: 0.0007123598263812541
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.02840059206082495
+	}, 
+	{
+		emotion: "happy",
+		value: 0.047835289616602925
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.746258242183445
+	}, 
+	{
+		emotion: "sad",
+		value: 0.0007359696396308287
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.03242368133937905
+	}, 
+	{
+		emotion: "happy",
+		value: 0.05436377850533993
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.7100473853134178
+	}, 
+	{
+		emotion: "sad",
+		value: 0.0008248015487579383
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.040833930040475815
+	}, 
+	{
+		emotion: "happy",
+		value: 0.06395492929917354
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.664185069324184
+	}, 
+	{
+		emotion: "sad",
+		value: 0.0008880329388121109
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.05302264442976787
+	}, 
+	{
+		emotion: "happy",
+		value: 0.0761057815765598
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.6174996314496147
+	}, 
+	{
+		emotion: "sad",
+		value: 0.0008959804141264199
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.06747467724850979
+	}, 
+	{
+		emotion: "happy",
+		value: 0.09115748476699595
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.575438968521721
+	}, 
+	{
+		emotion: "sad",
+		value: 0.0008824704897451777
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.08103581245175977
+	}, 
+	{
+		emotion: "happy",
+		value: 0.10749996151126841
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.5340015356300859
+	}, 
+	{
+		emotion: "sad",
+		value: 0.0008509905561109558
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.09789840133237958
+	}, 
+	{
+		emotion: "happy",
+		value: 0.12514227493961205
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.488710711826716
+	}, 
+	{
+		emotion: "sad",
+		value: 0.0008469223251860514
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.11826197896081514
+	}, 
+	{
+		emotion: "happy",
+		value: 0.14595988889294026
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.44845475243300964
+	}, 
+	{
+		emotion: "sad",
+		value: 0.0008928291225008032
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.1391525078206771
+	}, 
+	{
+		emotion: "happy",
+		value: 0.1648332736338289
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.41671365067606286
+	}, 
+	{
+		emotion: "sad",
+		value: 0.0009594766527411049
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.16001327806105467
+	}, 
+	{
+		emotion: "happy",
+		value: 0.18047670366627788
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.393826982664225
+	}, 
+	{
+		emotion: "sad",
+		value: 0.0010483846505373315
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.17379079561750094
+	}, 
+	{
+		emotion: "happy",
+		value: 0.19322825205542918
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.38483421789115324
+	}, 
+	{
+		emotion: "sad",
+		value: 0.001088729202614033
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.17611956333244141
+	}, 
+	{
+		emotion: "happy",
+		value: 0.2022734355331328
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.3743840207825414
+	}, 
+	{
+		emotion: "sad",
+		value: 0.0011282405261690777
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.17781983974810017
+	}, 
+	{
+		emotion: "happy",
+		value: 0.21179912532695003
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.358566519419869
+	}, 
+	{
+		emotion: "sad",
+		value: 0.0011987469300158502
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.18510468460128318
+	}, 
+	{
+		emotion: "happy",
+		value: 0.2221309586345988
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.3376476131379968
+	}, 
+	{
+		emotion: "sad",
+		value: 0.0013200764924451176
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.19570060297795738
+	}, 
+	{
+		emotion: "happy",
+		value: 0.23165770935853436
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.31915731378781387
+	}, 
+	{
+		emotion: "sad",
+		value: 0.0014970817108867144
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.21009805880788415
+	}, 
+	{
+		emotion: "happy",
+		value: 0.2373613557234938
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.30087439013773476
+	}, 
+	{
+		emotion: "sad",
+		value: 0.001753425665105821
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.22162805811082817
+	}, 
+	{
+		emotion: "happy",
+		value: 0.24653726185463015
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.283505683290667
+	}, 
+	{
+		emotion: "sad",
+		value: 0.0020657323788921067
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.23525657159439423
+	}, 
+	{
+		emotion: "happy",
+		value: 0.25608079593692296
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.2649303041406214
+	}, 
+	{
+		emotion: "sad",
+		value: 0.0024414179412391513
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.24933455926642617
+	}, 
+	{
+		emotion: "happy",
+		value: 0.270468247015042
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.25126890292654186
+	}, 
+	{
+		emotion: "sad",
+		value: 0.002812959643521687
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.26373359314039874
+	}, 
+	{
+		emotion: "happy",
+		value: 0.2857171760524145
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.23913642275283198
+	}, 
+	{
+		emotion: "sad",
+		value: 0.003177218610242651
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.27880614488401056
+	}, 
+	{
+		emotion: "happy",
+		value: 0.2999098351173976
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.22808224853398165
+	}, 
+	{
+		emotion: "sad",
+		value: 0.0036248086157705016
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.2973426202524771
+	}, 
+	{
+		emotion: "happy",
+		value: 0.30915505668011567
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.22006986803562728
+	}, 
+	{
+		emotion: "sad",
+		value: 0.004072945454679055
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.3179705948366063
+	}, 
+	{
+		emotion: "happy",
+		value: 0.31741452362810163
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.20755655358593478
+	}, 
+	{
+		emotion: "sad",
+		value: 0.004844698174304307
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.33626346617529035
+	}, 
+	{
+		emotion: "happy",
+		value: 0.3279778600375684
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.18783517064125418
+	}, 
+	{
+		emotion: "sad",
+		value: 0.006186518912375379
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.36484167143991414
+	}, 
+	{
+		emotion: "happy",
+		value: 0.34637355612932935
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.16400312375046053
+	}, 
+	{
+		emotion: "sad",
+		value: 0.008512855100606913
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.33144254620214986
+	}, 
+	{
+		emotion: "happy",
+		value: 0.3422940229344607
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.144605859164953
+	}, 
+	{
+		emotion: "sad",
+		value: 0.011739182158492078
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.2986352034982903
+	}, 
+	{
+		emotion: "happy",
+		value: 0.3295422568582119
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.13071389675218975
+	}, 
+	{
+		emotion: "sad",
+		value: 0.016069557941456994
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.2563758403291922
+	}, 
+	{
+		emotion: "happy",
+		value: 0.3116955357278966
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.12879018354604516
+	}, 
+	{
+		emotion: "sad",
+		value: 0.019164014888172876
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.21868931416348825
+	}, 
+	{
+		emotion: "happy",
+		value: 0.27926172315851167
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.12980308500711502
+	}, 
+	{
+		emotion: "sad",
+		value: 0.02119786278331419
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.17920068333293063
+	}, 
+	{
+		emotion: "happy",
+		value: 0.24727369530705298
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.13431932555112164
+	}, 
+	{
+		emotion: "sad",
+		value: 0.021705795365178145
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.1379380548748388
+	}, 
+	{
+		emotion: "happy",
+		value: 0.22047669552120994
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.14318520287217568
+	}, 
+	{
+		emotion: "sad",
+		value: 0.020371290482085812
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.10097275488529261
+	}, 
+	{
+		emotion: "happy",
+		value: 0.19675826930556387
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.15728368980914495
+	}, 
+	{
+		emotion: "sad",
+		value: 0.019305966928313403
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.07164662551210908
+	}, 
+	{
+		emotion: "happy",
+		value: 0.16704258881886147
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.17855885945618158
+	}, 
+	{
+		emotion: "sad",
+		value: 0.01726104148095309
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.04933127669519492
+	}, 
+	{
+		emotion: "happy",
+		value: 0.1348101327203397
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.2083032720659703
+	}, 
+	{
+		emotion: "sad",
+		value: 0.014809767081854913
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.03362423079239942
+	}, 
+	{
+		emotion: "happy",
+		value: 0.10039350258173167
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.24174572959178348
+	}, 
+	{
+		emotion: "sad",
+		value: 0.01216153350924243
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.031146020038516253
+	}, 
+	{
+		emotion: "happy",
+		value: 0.07844962229347621
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.2767215916071088
+	}, 
+	{
+		emotion: "sad",
+		value: 0.01024000905960736
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.029117156772038303
+	}, 
+	{
+		emotion: "happy",
+		value: 0.059150445410418334
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.30152608353690535
+	}, 
+	{
+		emotion: "sad",
+		value: 0.008582189546804295
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.02867675660170904
+	}, 
+	{
+		emotion: "happy",
+		value: 0.04621313696727578
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.30177150755721893
+	}, 
+	{
+		emotion: "sad",
+		value: 0.007669611808802386
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.028636779106953742
+	}, 
+	{
+		emotion: "happy",
+		value: 0.03934305302389569
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.2958381894487021
+	}, 
+	{
+		emotion: "sad",
+		value: 0.0070961712189796895
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.02956628932962396
+	}, 
+	{
+		emotion: "happy",
+		value: 0.03290893890845566
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.2961454711260076
+	}, 
+	{
+		emotion: "sad",
+		value: 0.006746676062076527
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.03210110424248085
+	}, 
+	{
+		emotion: "happy",
+		value: 0.025828274274691452
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.2892258949826738
+	}, 
+	{
+		emotion: "sad",
+		value: 0.006942792621991678
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.035704596378977285
+	}, 
+	{
+		emotion: "happy",
+		value: 0.020603070077783964
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.2743683643508113
+	}, 
+	{
+		emotion: "sad",
+		value: 0.006803974813921818
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.03938951085029481
+	}, 
+	{
+		emotion: "happy",
+		value: 0.01955856928220231
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.2449126425402023
+	}, 
+	{
+		emotion: "sad",
+		value: 0.0063751167721201344
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.04335083116646197
+	}, 
+	{
+		emotion: "happy",
+		value: 0.024825002175716145
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.2087548439341873
+	}, 
+	{
+		emotion: "sad",
+		value: 0.005704155649614882
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.04467812816620141
+	}, 
+	{
+		emotion: "happy",
+		value: 0.038595895562945126
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.17854536584607694
+	}, 
+	{
+		emotion: "sad",
+		value: 0.00477519964821088
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.04514845041702805
+	}, 
+	{
+		emotion: "happy",
+		value: 0.06479798605032373
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.15777007373400304
+	}, 
+	{
+		emotion: "sad",
+		value: 0.004084795095491575
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.04317254630575417
+	}, 
+	{
+		emotion: "happy",
+		value: 0.10400402033778003
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.14906214570181317
+	}, 
+	{
+		emotion: "sad",
+		value: 0.0037482775966389973
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.03889066075571828
+	}, 
+	{
+		emotion: "happy",
+		value: 0.1477112719535829
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.1433022312299776
+	}, 
+	{
+		emotion: "sad",
+		value: 0.0037629277281568127
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.034898551049952445
+	}, 
+	{
+		emotion: "happy",
+		value: 0.19970650998629158
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.13792671807827292
+	}, 
+	{
+		emotion: "sad",
+		value: 0.004156296485360199
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.03183057231217738
+	}, 
+	{
+		emotion: "happy",
+		value: 0.2674699262827176
+	}
+]
+[
+	{
+		emotion: "angry",
+		value: 0.12649434221135736
+	}, 
+	{
+		emotion: "sad",
+		value: 0.005057133560990226
+	}, 
+	{
+		emotion: "surprised",
+		value: 0.03036693621190688
+	}, 
+	{
+		emotion: "happy",
+		value: 0.35800955661302536
+	}
+]
+
+---- Log retrieved: Mon Sep 04 2017 19:28:58 GMT+0100 (WEST) ----
+---- Session duration: 00:00:15 ----
